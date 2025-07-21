@@ -1,4 +1,3 @@
----
 
 # Integrated Reports Published in Turkey Show Greenwashing Signals? Deep Learning Based Visual and Textual Analysis
 
