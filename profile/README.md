@@ -24,17 +24,17 @@ The research is supported under the **TÜBİTAK 3005 Program**, which funds inno
   Rating Coordinator, Gebze Technical University (GTU)
 
 * **Researchers:**
-  Assoc. Prof. Dr. Yakup Genç – Department of Computer Engineering, GTU
-  Prof. Dr. Yusuf Sinan Akgül – Department of Computer Engineering, GTU
-  PhD. Candidate - Res. Ast. Saliha Yeşilyurt - Department of Computer Engineering, GTU - SCU
-  Undergrad. Scholarship Recipient - Bekir Sadık Altunkaya - Department of Computer Engineering, GTU
-
+*  Prof. Dr. Yusuf Sinan Akgül – Department of Computer Engineering, GTU
+*  Assoc. Prof. Dr. Yakup Genç – Department of Computer Engineering, GTU
+*  PhD. Candidate - Department of Computer Engineering, GTU and  Res. Ast. Saliha Yeşilyurt – Department of Computer Engineering, SCU
+*  Undergrad. Scholarship Recipient - Bekir Sadık Altunkaya - Department of Computer Engineering, GTU
 ---
 
 
 ## 📅 Timeline
 
 **Start Date:** 06/2025
+
 **Duration:** 15 months (estimated)
 
 ---
