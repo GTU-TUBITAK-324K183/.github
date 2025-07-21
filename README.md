@@ -1,6 +1,6 @@
 ---
 
-# Do Integrated Reports Published in Türkiye Signal Greenwashing?
+# Integrated Reports Published in Turkey Show Greenwashing Signals? Deep Learning Based Visual and Textual Analysis
 
 **Visual and Textual Analysis Based on Deep Learning**
 **Supported by TÜBİTAK 3005 - Innovative Solutions in Social and Human Sciences Research Program**
