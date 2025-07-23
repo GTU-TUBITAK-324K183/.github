@@ -1,5 +1,5 @@
 
-# Integrated Reports Published in Turkey Show Greenwashing Signals? Deep Learning Based Visual and Textual Analysis
+# Do Integrated Reports Disclosed in Türkiye Display the Signals of Greenwashing? A Deep Learning-Based Visual and Textual Analysis
 
 **Visual and Textual Analysis Based on Deep Learning**
 
