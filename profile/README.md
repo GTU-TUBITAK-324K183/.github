@@ -3,7 +3,7 @@
 
 **Visual and Textual Analysis Based on Deep Learning**
 
-**Supported by TÜBİTAK 3005 - Innovative Solutions in Social and Human Sciences Research Program**
+**Supported by TÜBİTAK 3005 - Innovative Solutions in Social Sciences and Humanities Research Projects Funding Program**
 
 **Gebze Technical University (GTU)**
 
@@ -21,7 +21,7 @@ The research is supported under the **TÜBİTAK 3005 Program**, which funds inno
 
 * **Principal Investigator:**
   Assoc. Prof. Dr. Sibel Dinç Aydemir
-  Rating Coordinator, Gebze Technical University (GTU)
+  Principal Investigator, Gebze Technical University (GTU)
 
 * **Researchers:**
 *  Prof. Dr. Yusuf Sinan Akgül – Department of Computer Engineering, GTU
@@ -44,8 +44,8 @@ The research is supported under the **TÜBİTAK 3005 Program**, which funds inno
 For contributions, collaboration opportunities, or more information:
 
 * **Assoc. Prof. Dr. Sibel Dinç Aydemir**
-  Rating Coordinator – Gebze Technical University
-  ✉️ [sibel.aydemir@gtu.edu.tr](mailto:sibel.aydemir@gtu.edu.tr)
+  Principal Investigator – Gebze Technical University
+  ✉️ [saydemir@gtu.edu.tr](mailto:saydemir@gtu.edu.tr)
 
 * **Prof. Dr. Yusuf Sinan Akgül**
   Researcher – Gebze Technical University
